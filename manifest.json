@@ -9,7 +9,7 @@
   "content_scripts": [
     {
       "matches": ["*://app.destinyitemmanager.com/*"],
-      "js": ["darer.js"]
+      "js": ["dimar.js"]
     }
   ]
 
