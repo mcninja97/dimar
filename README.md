@@ -1,3 +1,3 @@
 # dimar
-dim auto refresher (dimar) will refresh dim every few minutes automatically for you. Hopefully soon to be a firefox extension.
-if for some reason it does not get approved it can still be installed as a temporary extension from local files.
+dim auto refresher (dimar) will refresh dim every few minutes automatically for you.
+can be installed locally or from here https://addons.mozilla.org/en-US/firefox/addon/dimar/
